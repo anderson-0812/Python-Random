@@ -1,0 +1,24 @@
+ojo mlas variables no necesitan tipos
+
+substring
+cadena[3]
+
+cadena[0:4] ojo si no pones el inicio toma todo ahsta el limite o viceversa
+
+el simbolo _ te toma el ultimo resultado (es el ans de las calculadoras)
+
+metodo roud(_,2) el segundo dig son los decimales que deceas tomar del _
+
+
+las comillas triples hacen que toda la cadena respete todos los caracteres saltos de line y tabulaciones que hagas
+
+
+* arreglos metodos
+	l1 = [1,2,3,"sadad"]
+	l2 = l[0:2] inicio : numero de elementos
+	l2 = l[0:2:3] inicio : numero de elementos: salto es decir cuantos elementos queire qeus e salte dentro del rango
+
+*  remplazar valores
+
+	l[0:2] = [4] replazo los dos valores de la lista l x uno solo que es 4
+	l[0:2] = [4,3]remplazo los dos valores x los dos nuevos

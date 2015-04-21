@@ -1,0 +1,8 @@
+append(x) Añade un elemento X al final de la lista
+extend(L) Extiende la lista concatenandose con L (otra lista)
+insert(i, x) Inserta un elemento x en la posicion i de la lista
+remove(x) Elimina el primer elemento x que haya en la lista en caso de no haber ningun elemento x en la lista devuelve error
+index(x) Devuelve el indice del elemento x.Provoca un error si no existe tal elemento.
+count(x) Devuelve el número de veces que aparece x en la lista.
+sort() Ordena ascendentemente los elementos de la propia lista (la lista queda cambiada).
+reverse() Invierte la propia lista (la lista queda cambiada).
